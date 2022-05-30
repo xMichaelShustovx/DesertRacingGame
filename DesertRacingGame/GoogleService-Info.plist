@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>549012653333-qd8e75o5ub8828519td6rm3297cf73be.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.549012653333-qd8e75o5ub8828519td6rm3297cf73be</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC5KaVkvDTABIuDN8VVTwF332SPlD9k9wk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>549012653333</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.MichaelShustov.DesertRacingGame</string>
+	<key>PROJECT_ID</key>
+	<string>desertracingsmm</string>
+	<key>STORAGE_BUCKET</key>
+	<string>desertracingsmm.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:549012653333:ios:aab4c9d2fe30a76ac3551c</string>
+</dict>
+</plist>
