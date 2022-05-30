@@ -54,12 +54,6 @@ class MenuViewController: UIViewController {
         
         setupView()
         setupButton()
-        
-        let button = UIButton(type: .roundedRect)
-              button.frame = CGRect(x: 20, y: 200, width: 100, height: 30)
-              button.setTitle("Test Crash", for: [])
-              button.addTarget(self, action: #selector(self.crashButtonTapped(_:)), for: .touchUpInside)
-              view.addSubview(button)
     }
     
     override func viewWillAppear(_ animated: Bool) {
@@ -69,11 +63,6 @@ class MenuViewController: UIViewController {
     }
     
     // MARK: - Private Methods
-    
-    @IBAction func crashButtonTapped(_ sender: AnyObject) {
-          let numbers = [0]
-          let _ = numbers[1]
-      }
     
     private func setupView() {
         Gradients.setMenuBackgroundGradient(self.view)
